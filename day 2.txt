@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<title>RECCSAR Internship</title>
+	</div>
+	</head>
+	<body>
+	<p><b>Day 2 </b> in <mark> Reccsar </mark> </P>
+	<P> Topics taught in HTML </p>
+	<ol type = "I">
+	   <li> list</li>
+	       <ul type = "square">
+		     <li>ordered list</li>
+			 <li>unordered list</li>
+			 <li>description list</li>
+		   </ul> 
+	   <li> table
+	 
+	 </body>
+</html>	 
